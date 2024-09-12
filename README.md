@@ -11,6 +11,7 @@ This package is licensed under the MIT License. See the LICENSE file for details
 Please cite our articles if you use this application in your research or publication. 
 
 * [NMR spectrum reconstruction as a pattern recognition problem](https://doi.org/10.1016/j.jmr.2022.107342)
+
 ---
 ## Installation
 1. Install [Miniconda](https://docs.anaconda.com/miniconda/) by using Quick command line install instructions.
