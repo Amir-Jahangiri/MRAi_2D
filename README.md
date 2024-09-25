@@ -1,5 +1,13 @@
 ﻿# MRAi_2D: Magnetic Resonance processing with Artificial intelligence for 2D spectra
 
+## About
+MRAi is an AI-powered tool for processing Magnetic Resonance data, specifically designed for 2D NMR spectra. With it, you can perform the following tasks:
+* Non-Uniform Sampling (NUS) Reconstruction (`NUS_Rec.ipynb` [Preview](https://github.com/Amir-Jahangiri/MRAi_2D/blob/master/NUS_Rec.ipynb))
+* Virtual homo-decoupling in a 2D methyl H-C—HMQC with J-coupling around 35 Hz (`VD_ID.ipynb` [Preview](https://github.com/Amir-Jahangiri/MRAi_2D/blob/master/VD_ID.ipynb))
+* Echo or Anti-Echo Reconstruction with MRAi and Compressed Sensing (CS) (`Echo_Rec.ipynb` [Preview](https://github.com/Amir-Jahangiri/MRAi_2D/blob/master/Echo_Rec.ipynb))
+* Uncertainty Estimation for Echo or Anti-Echo Reconstruction with MRAi and CS (`Uncertainty.ipynb` [Preview](https://github.com/Amir-Jahangiri/MRAi_2D/blob/master/Uncertainty.ipynb))
+* Data generation and WNN architectures for training (`Generator.ipynb` [Preview](https://github.com/Amir-Jahangiri/MRAi_2D/blob/master/Generator.ipynb))"
+
 ## Authors
 * [Amir Jahangiri](amir.jahangiri@gu.se)
 * [Vladislav Orekhov](vladislav.orekhov@nmr.gu.se)
@@ -58,7 +66,9 @@ conda activate mrai
 ```python
 jupyter notebook
 ```
-4. Run one of the Jupyter files (`*.ipynb`) in Jupyter Notebook and follow the instructions.
+4. Open and run one of the Jupyter notebooks (`*.ipynb`), following the instructions provided in the file.
+
+5. If necessary, restart the kernel and then shut down any open Jupyter instances before running a new notebook.
 ---
 ## Uninstallation
 
