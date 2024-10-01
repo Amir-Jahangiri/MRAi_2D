@@ -22,7 +22,7 @@ Please cite our articles if you use this application in your research or publica
 
 ---
 ## Installation
-1. Install [Miniconda](https://docs.anaconda.com/miniconda/) by following the Quick Command Line Install instructions.
+1. Install [Miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) by following the Regular installation instructions.
 2. Download MRAi_2D pacckege from [`Code`](https://github.com/Amir-Jahangiri/MRAi_2D/archive/refs/heads/master.zip).
 3. Unzip the `MRAi_2D-master.zip` file.
 4. Open Terminal in `MRAi_2D-master/Packages` folder.
